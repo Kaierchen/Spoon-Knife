@@ -1,0 +1,17 @@
+My Jupyter Notebook on IBM Watson Studio
+kaier chen
+dear scientist
+I am interested in data science because I want to study various of data tools to help various of conpanies to solve the problems
+the below should print 'Hello World'
+
+print("Hello World")
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
